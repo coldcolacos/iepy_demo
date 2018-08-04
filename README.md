@@ -2,6 +2,7 @@
 
 ## platform
 ubuntu==16.04 (bit-64)
+
 python==3.5.6
 
 ## install virtualenvwrapper for python3
