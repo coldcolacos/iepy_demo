@@ -5,6 +5,8 @@ ubuntu==16.04 (bit-64)
 
 python==3.5.6
 
+numpy==1.14.5
+
 ## install virtualenvwrapper for python3
 export WORKON_HOME=$HOME/.config/iepy/workon_home
 
